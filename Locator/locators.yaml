@@ -1,0 +1,26 @@
+btn_login:  id=com.example.myapplication:id/login 
+input_username: id=com.example.myapplication:id/username
+input_password: id=com.example.myapplication:id/password
+btn_Singin: id=com.example.myapplication:id/signIn
+VerifySuccess_login:  id=com.example.myapplication:id/textView
+btn_Booking:  id=com.example.myapplication:id/book
+tap_RoundTrip:  //android.widget.TextView[@text='ROUND TRIP']
+spinner_FromCity: id=com.example.myapplication:id/spinnerFrom
+spinner_ToCity: id=com.example.myapplication:id/spinnerTo
+spinner_Class:  id=com.example.myapplication:id/spinnerClass
+tap_StartDate:  //android.widget.TextView[@text='Start Date']
+view_Month: id=android:id/month_view
+btn_DateOK: id=android:id/button1
+tap_EndDate:  //android.widget.TextView[@text='End Date']
+checklist_Day:  id=com.example.myapplication:id/checkBoxDay
+btn_Book: id=com.example.myapplication:id/book_flight
+VerifyPage_ConfirmBook: id=com.example.myapplication:id/textView6
+choose_FlightPrice: id=com.example.myapplication:id
+btn_ConfirmOrder: id=com.example.myapplication:id/confirm_order
+VerifyReservationBook:  //android.widget.CheckedTextView
+Tap_SearchFlight: id=com.example.myapplication:id/search_flight
+waitVisibleFlightNumber:  com.example.myapplication:id/enterFlight
+Input_FlightNumber: id=com.example.myapplication:id/flight_number
+clear_FlightNumber: id=com.example.myapplication:id/flight_number
+btn_SearchFlight: id=com.example.myapplication:id/searchFlight
+waitFlightNumberVisible:  //android.widget.TextView
